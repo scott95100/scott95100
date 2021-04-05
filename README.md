@@ -1,20 +1,16 @@
-### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+### Hi there.. Scott Sherwood. full stack software engineer👋
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 <!--
 **scott95100/scott95100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... REACT, DJANGO, Data Science
+- 🌱 I’m currently learning ...polishing up with some Algorithms/Data Science courses  
+- 👯 I’m looking to collaborate on ... REACT framwork projects
+- 🤔 I’m looking for help with ... SEQUELIZE 
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... Email: scott95100@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am a woodworker hobbiest 🪚🪵
 -->
