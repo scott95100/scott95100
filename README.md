@@ -13,14 +13,7 @@
 
 ![Scott's github stats](https://github-readme-stats.vercel.app/api?username=scott95100&show_icons=true&hide_border=true)
 
-  <a href="https://www.linkedin.com/in/scott-sherwood-515114204/">
-    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/scott95100/scott95100/blob/master/Assets/Linkedin.svg" />
-  </a>
-  
-  
-  <a href="mailto:scott95100@gmail.com">
-    <img align="left" alt="Hargun | Gmail" width="26px" src="https://github.com/scott95100/scott95100/blob/master/Assets/Gmail.svg" />
-  </a>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/scott-sherwood-515114204/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/scott95100)
 
 <br><br>
 
