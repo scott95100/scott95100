@@ -1,6 +1,6 @@
 # Scott Sherwood&nbsp;
 
-<img src="https://github.com/scott95100/scott95100/blob/master/Assets/hi.gif" style="width: 100px;">
+
 
 <p>
     I am a full stack engineer recent graduate from <a href="https://generalassemb.ly/"> <b>General Assembly</b></a>. <br><br>
@@ -13,7 +13,8 @@
 
 ![Scott's github stats](https://github-readme-stats.vercel.app/api?username=scott95100&show_icons=true&hide_border=true)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/scott-sherwood-515114204/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/scott95100)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/scott-sherwood-515114204/) 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/scott95100)
 
 <br><br>
 
